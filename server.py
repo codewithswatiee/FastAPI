@@ -1,6 +1,6 @@
 from fastapi import FastAPI, Query, Path
 from enum import Enum
-from typing import Annotated
+from typing import Annotated, Union
 
 app = FastAPI()
 
