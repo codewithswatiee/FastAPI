@@ -1,0 +1,2 @@
+-> create a virtual env
+-> install all the dependencies after activating the env
